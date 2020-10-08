@@ -10,3 +10,7 @@
 
 ## 驱动
 
+```bash
+pip install pymongo
+```
+

@@ -1,0 +1,2 @@
+import pymongo
+client = pymongo.MongoClient('mongodb+srv://u8x9:KfcQDu3JCr7LCrPA@cluster0.oxyzs.azure.mongodb.net/test?retryWrites=true&w=majority')
