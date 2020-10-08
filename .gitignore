@@ -2,3 +2,4 @@ venv
 *.pyc
 mongo-cloud.txt
 mongo_client.py
+__pycache__
